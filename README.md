@@ -2,7 +2,7 @@
 ## 생각보다 간단 했던 뇌세포: MCP 뉴런모델의 발표
 
 [뇌의 신경세포]
-<src img="https://github.com/cwooyoon/Artificial_Intelligence/blob/master/images/800px-Neuron_ko.svg.png">
+<img src="https://github.com/cwooyoon/Artificial_Intelligence/blob/master/images/800px-Neuron_ko.svg.png">
 
 <이미지 출처 : 위키피디아 https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9D%BC:Neuron_ko.svg>
 
