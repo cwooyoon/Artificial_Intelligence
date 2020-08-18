@@ -12,7 +12,9 @@ https://yamerong.tistory.com/43
 
 https://yamerong.tistory.com/category/%EB%B6%84%EC%84%9D%EC%9D%B4%EB%A1%A0/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%28Machine%20Learning%29
 
+## 인공 지능 개괄: facebook
 
+https://engineering.fb.com/ml-applications/artificial-intelligence-revealed/
  
 
 
