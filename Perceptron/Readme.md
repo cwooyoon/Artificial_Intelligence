@@ -1,6 +1,9 @@
 # Perceptron
 
 ## 개요
+
+출처: 모두의딥러닝(조태호 저)
+
 <img src="https://user-images.githubusercontent.com/54765256/90967431-2d4aab00-e51a-11ea-81b9-783cc25109da.png">
 
 인간의 뇌는 치밀하게 연결된 약 1,000억 개의 뉴런으로 이루어져 있다. 
