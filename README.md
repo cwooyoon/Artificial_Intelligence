@@ -16,7 +16,22 @@ https://yamerong.tistory.com/category/%EB%B6%84%EC%84%9D%EC%9D%B4%EB%A1%A0/%EA%B
 
 https://engineering.fb.com/ml-applications/artificial-intelligence-revealed/
  
+### 인공지능, 머신러닝, 딥러닝의 관계
 
+<img src="https://user-images.githubusercontent.com/54765256/91634141-fa784980-ea28-11ea-8b45-95e45e478696.png">
+
+### 머신러닝과 전통적 프로그래밍
+
+<img src="https://user-images.githubusercontent.com/54765256/91634159-1bd93580-ea29-11ea-892f-982f8331c52e.png">
+
+전통적인 머신러닝 알고리즘은 피처 추출을 직접 수행한 후 알고리즘을 학습시키는 반면,
+딥러닝 알고리즘은 최신 기법을 사용해 이런 피처 추출을 자동화한다.
+
+딥러닝의 현재 상태는 기존 데이터에서 패턴을 찾아내고, 그 패턴을 이용해 새로운 데이터의 결과를 예측하는 수준이다.
+
+### CPU와 GPU의 신경망 아키텍처 성능 벤치마크
+
+<img src="https://user-images.githubusercontent.com/54765256/91634598-7b851000-ea2c-11ea-9749-6d75cd0a38af.png"?
 
 
 
