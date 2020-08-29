@@ -19,6 +19,10 @@ https://engineering.fb.com/ml-applications/artificial-intelligence-revealed/
 ### 인공지능의 정의
 
 기계가 인간의 인지과정을 모방하는 것(Wiki)
+
+### 기계학습의 정의
+
+명시적으로 프로그래밍되지 않은 상태에서 기계에게 학습할 능력을 부여하는 것
  
 ### 인공지능, 머신러닝, 딥러닝의 관계
 
