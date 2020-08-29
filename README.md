@@ -15,6 +15,10 @@ https://yamerong.tistory.com/category/%EB%B6%84%EC%84%9D%EC%9D%B4%EB%A1%A0/%EA%B
 ## 인공 지능 개괄: facebook
 
 https://engineering.fb.com/ml-applications/artificial-intelligence-revealed/
+
+### 인공지능의 정의
+
+기계가 인간의 인지과정을 모방하는 것(Wiki)
  
 ### 인공지능, 머신러닝, 딥러닝의 관계
 
