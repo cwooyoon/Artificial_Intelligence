@@ -6,6 +6,8 @@
 
 명시적으로 프로그래밍되지 않은 상태에서 기계에게 학습할 능력을 부여하는 것
 
+데이터에서 지식을 추출하는 작업 (Introduction to ML with Python)
+
 ## 분야
 
 ### 지도학습 Supervised Learning
