@@ -42,5 +42,6 @@ https://engineering.fb.com/ml-applications/artificial-intelligence-revealed/
 <img src="https://user-images.githubusercontent.com/54765256/91634598-7b851000-ea2c-11ea-9749-6d75cd0a38af.png"?
 
 
-
-
+### State of AI 2020 보고서 [구글 Slide, 183P] https://j.mp/33D6gFY 
+* 인공지능의 현재와 미래를 폭넓게 조망한 보고서 
+  - https://docs.google.com/presentation/d/1ZUimafgXCBSLsgbacd6-a-dqO7yLyzIl1ZJbiCBUUT4/preview?pru=AAABdSck1Js*cULlcmdEse4w_nkE86vK_w&slide=id.g557254d430_0_0
