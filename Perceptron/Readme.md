@@ -1,5 +1,10 @@
 # Perceptron
 
+## Youtube
+* How Your Nervous System Works & Changes | Huberman Lab Podcast
+  - https://www.youtube.com/watch?v=H-XfCl-HpRM
+  
+  
 ## 개요
 
 출처: 모두의딥러닝(조태호 저)
